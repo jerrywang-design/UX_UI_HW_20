@@ -1,0 +1,29 @@
+.row img {
+  max-width: 100%;
+  height: auto;
+}
+#loading1 {
+  max-height: 50vh;
+  align-items: center;
+}
+.bgDonut {
+  background-image: url(../images/bg_donut.png);
+  background-position: cover;
+  background-size: 80%;
+  background-repeat: no-repeat;
+}
+.bgShapes1 {
+  background-image: url(../images/bg_shapes_1.png);
+  background-position: cover;
+  background-size: 70%;
+  background-repeat: no-repeat;
+} 
+.heroCaseStudy1 {
+  background-color: #efefef;
+}
+.sectionHeading {
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -2px;
+  font-family: 'Crimson Pro', serif;
+}
