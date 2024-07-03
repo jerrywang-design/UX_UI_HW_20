@@ -1,3 +1,30 @@
+header {
+  background-color: #373738;
+  padding: 8px;
+  max-height: 15vh;
+  position: sticky;
+}
+header img {
+  max-height: 10vh;
+  border-radius: 100%;
+  object-position: 50% 50%;
+  object-fit: cover;
+}
+header ul {
+  float: right;
+  color: white;
+  padding: 24px;
+  font-family: 'Lato', 'Roboto', sans-serif;
+  font-weight: bold;
+}
+header li {
+  display: inline-block;
+  padding: 0px 5px;
+}
+header p {
+  display: inline-block;
+}
+
 .row img {
   max-width: 100%;
   height: auto;
