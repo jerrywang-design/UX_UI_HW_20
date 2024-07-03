@@ -47,10 +47,44 @@ header p {
 } 
 .heroCaseStudy1 {
   background-color: #efefef;
+  padding: 48px;
+  padding-left: 48px !important;
+  padding-right: 48px !important;
 }
-.sectionHeading {
+.heroCaseStudy2 {
+  background-color: #9E9E9E;
+  padding: 48px;
+  padding-left: 48px !important;
+  padding-right: 48px !important;
+}
+.sectionHeading1 {
   font-size: 72px;
   font-weight: 700;
   letter-spacing: -2px;
   font-family: 'Crimson Pro', serif;
+  color: #383838;
+}
+.sectionHeading2 {
+  font-size: 72px;
+  font-weight: 700;
+  letter-spacing: -2px;
+  font-family: 'Crimson Pro', serif;
+  color: #fff;
+}
+.spacer24 {
+  height: 24px;
+}
+
+footer {
+  background-color: #373738;
+  padding: 5px;
+  color: white;
+}
+footer ul {
+  list-style: none;
+  padding-left: 5px;
+}
+footer li {
+  display: inline-block;
+  padding: 0px 7px;
 }
